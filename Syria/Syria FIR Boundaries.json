@@ -1,0 +1,605 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff0000ff",
+            "colorBg": "#33ff0000",
+            "id": "{e900867c-f56a-465d-b39e-02fd45cfdce3}",
+            "lineWidth": 2,
+            "name": "Ankara South",
+            "points": [
+                {
+                    "latitude": 36.04055555555556,
+                    "longitude": 30.824444444444445
+                },
+                {
+                    "latitude": 35.93222222222222,
+                    "longitude": 33.282777777777774
+                },
+                {
+                    "latitude": 35.91555555555556,
+                    "longitude": 34.01611111111111
+                },
+                {
+                    "latitude": 35.89415031440689,
+                    "longitude": 35.564108535327335
+                },
+                {
+                    "latitude": 35.92750276295202,
+                    "longitude": 35.928602326995275
+                },
+                {
+                    "latitude": 35.807034230484454,
+                    "longitude": 36.15232457075621
+                },
+                {
+                    "latitude": 36.22134132198004,
+                    "longitude": 36.395180953797194
+                },
+                {
+                    "latitude": 36.24508584089478,
+                    "longitude": 36.705742752713235
+                },
+                {
+                    "latitude": 36.41109544211886,
+                    "longitude": 36.58505048963167
+                },
+                {
+                    "latitude": 36.82574745953188,
+                    "longitude": 36.664530760902295
+                },
+                {
+                    "latitude": 36.72081889699383,
+                    "longitude": 37.041326118815476
+                },
+                {
+                    "latitude": 36.634940664939,
+                    "longitude": 37.46572272605761
+                },
+                {
+                    "latitude": 36.91495354408997,
+                    "longitude": 38.25811045205401
+                },
+                {
+                    "latitude": 36.7034826866424,
+                    "longitude": 38.75529490756301
+                },
+                {
+                    "latitude": 36.697254116701664,
+                    "longitude": 39.48941883017949
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff0000ff",
+            "colorBg": "#33ff0000",
+            "id": "{af92dfa1-b435-414a-878c-47063be3d6b8}",
+            "lineWidth": 2,
+            "name": "Nicosia East",
+            "points": [
+                {
+                    "latitude": 35.895596761602846,
+                    "longitude": 35.55442000298953
+                },
+                {
+                    "latitude": 35.65917546999666,
+                    "longitude": 35.41287664686763
+                },
+                {
+                    "latitude": 35.36096435055642,
+                    "longitude": 35.621028641009474
+                },
+                {
+                    "latitude": 35.01733700215429,
+                    "longitude": 35.50862656421319
+                },
+                {
+                    "latitude": 34.72531095195153,
+                    "longitude": 35.681392719495136
+                },
+                {
+                    "latitude": 34.646039271466364,
+                    "longitude": 35.58371353902089
+                },
+                {
+                    "latitude": 34.651714451236074,
+                    "longitude": 35.48364832489756
+                },
+                {
+                    "latitude": 34.64143997121995,
+                    "longitude": 35.31712672946003
+                },
+                {
+                    "latitude": 34.59518905840554,
+                    "longitude": 35.11938233486242
+                },
+                {
+                    "latitude": 34.511186417758324,
+                    "longitude": 34.92163794029591
+                },
+                {
+                    "latitude": 34.35323826745672,
+                    "longitude": 34.7197305058435
+                },
+                {
+                    "latitude": 34.201878406833586,
+                    "longitude": 34.60108386907871
+                },
+                {
+                    "latitude": 34.01919715441341,
+                    "longitude": 34.51782307135994
+                },
+                {
+                    "latitude": 33.84130868060205,
+                    "longitude": 34.49076331208579
+                },
+                {
+                    "latitude": 33.663049126825165,
+                    "longitude": 34.50741547162954
+                },
+                {
+                    "latitude": 33.468793478086134,
+                    "longitude": 34.5906762697515
+                },
+                {
+                    "latitude": 33.30368095682264,
+                    "longitude": 34.70932290651629
+                },
+                {
+                    "latitude": 33.16788071557047,
+                    "longitude": 34.88208906179827
+                },
+                {
+                    "latitude": 33.05280823618966,
+                    "longitude": 34.78842066434913
+                },
+                {
+                    "latitude": 33.003944099498035,
+                    "longitude": 34.45329595345356
+                },
+                {
+                    "latitude": 32.476948501378224,
+                    "longitude": 34.24514395915665
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{35447c1a-5e04-4fb8-8946-0ace8f3cdd02}",
+            "latitude": 34.14652938594668,
+            "lineWidth": 10,
+            "longitude": 32.92752547417828,
+            "name": "Nicosia Label",
+            "shared": false,
+            "text": "Nicosia FIR",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{aeebd084-bfea-4690-8b33-8fce5e0da506}",
+            "latitude": 36.984418989857346,
+            "lineWidth": 10,
+            "longitude": 33.49542444117259,
+            "name": "Ankara Label",
+            "shared": false,
+            "text": "Ankara FIR",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff0000ff",
+            "colorBg": "#33ff0000",
+            "id": "{f3dc0ff3-27c3-49ee-9594-2fd501c2305b}",
+            "lineWidth": 2,
+            "name": "Beirut East",
+            "points": [
+                {
+                    "latitude": 34.725958189095046,
+                    "longitude": 35.67948181965477
+                },
+                {
+                    "latitude": 34.64393239885912,
+                    "longitude": 35.977048462546264
+                },
+                {
+                    "latitude": 34.63558624163362,
+                    "longitude": 36.28475942278294
+                },
+                {
+                    "latitude": 34.69399169910878,
+                    "longitude": 36.34562532700559
+                },
+                {
+                    "latitude": 34.62167411318977,
+                    "longitude": 36.45890353765478
+                },
+                {
+                    "latitude": 34.51168632969827,
+                    "longitude": 36.34393460743121
+                },
+                {
+                    "latitude": 34.49496660179783,
+                    "longitude": 36.45383137895692
+                },
+                {
+                    "latitude": 34.190641828713524,
+                    "longitude": 36.61444973733484
+                },
+                {
+                    "latitude": 33.91187845120376,
+                    "longitude": 36.28645014253439
+                },
+                {
+                    "latitude": 33.83045850811739,
+                    "longitude": 36.39465619448572
+                },
+                {
+                    "latitude": 33.85011870782309,
+                    "longitude": 36.11399674723691
+                },
+                {
+                    "latitude": 33.64346123924421,
+                    "longitude": 35.939852632365074
+                },
+                {
+                    "latitude": 33.58150782235585,
+                    "longitude": 36.05989372128687
+                },
+                {
+                    "latitude": 33.24279766320393,
+                    "longitude": 35.61861591566017
+                },
+                {
+                    "latitude": 33.29510155145466,
+                    "longitude": 35.55775001143752
+                },
+                {
+                    "latitude": 33.10694431220865,
+                    "longitude": 35.51548202233073
+                },
+                {
+                    "latitude": 33.05452797798916,
+                    "longitude": 35.35148222485458
+                },
+                {
+                    "latitude": 33.10694431220865,
+                    "longitude": 35.31090495537282
+                },
+                {
+                    "latitude": 33.051693772885635,
+                    "longitude": 34.78678189120822
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{3732e6b3-30cb-4e54-99ef-9bb6a117d417}",
+            "latitude": 33.41330450587243,
+            "lineWidth": 10,
+            "longitude": 35.14656419422016,
+            "name": "Beirut Label",
+            "shared": false,
+            "text": "Beirut FIR",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{dd8261bd-7819-4a83-ad11-a862f68f9930}",
+            "latitude": 35.058972397292614,
+            "lineWidth": 10,
+            "longitude": 37.97058725717628,
+            "name": "Damascus Label",
+            "shared": false,
+            "text": "Damascus FIR",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff0000ff",
+            "colorBg": "#33ff0000",
+            "id": "{ca83bf37-e586-4859-9d0e-815a2e063ec7}",
+            "lineWidth": 3,
+            "name": "Tel Aviv East",
+            "points": [
+                {
+                    "latitude": 33.245995128947534,
+                    "longitude": 35.615174172121755
+                },
+                {
+                    "latitude": 33.260133886671326,
+                    "longitude": 35.72338022407308
+                },
+                {
+                    "latitude": 32.8974626258408,
+                    "longitude": 35.6101020134239
+                },
+                {
+                    "latitude": 32.68568958739744,
+                    "longitude": 35.63884424598609
+                },
+                {
+                    "latitude": 32.64298978061935,
+                    "longitude": 35.56445258526955
+                },
+                {
+                    "latitude": 32.4006393929428,
+                    "longitude": 35.55008146920386
+                },
+                {
+                    "latitude": 32.36922867570971,
+                    "longitude": 35.5686793843704
+                },
+                {
+                    "latitude": 31.74879359118277,
+                    "longitude": 35.55346290870702
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{2663f362-cfaf-4f66-babb-a7150669003d}",
+            "latitude": 32.48892494726871,
+            "lineWidth": 10,
+            "longitude": 34.79747465628287,
+            "name": "Tel Aviv Label",
+            "shared": false,
+            "text": "Tel Aviv FIR",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff0000ff",
+            "colorBg": "#33ff0000",
+            "id": "{3df33547-03e6-4fa0-adb2-94c77423d951}",
+            "lineWidth": 2,
+            "name": "Damascus South",
+            "points": [
+                {
+                    "latitude": 32.68757940777476,
+                    "longitude": 35.63517720378849
+                },
+                {
+                    "latitude": 32.751024969805805,
+                    "longitude": 35.77616446536146
+                },
+                {
+                    "latitude": 32.72084614691655,
+                    "longitude": 35.93504886760269
+                },
+                {
+                    "latitude": 32.51579165080771,
+                    "longitude": 36.078557359949656
+                },
+                {
+                    "latitude": 32.51795256372874,
+                    "longitude": 36.21694054899845
+                },
+                {
+                    "latitude": 32.37305661678807,
+                    "longitude": 36.401451467730254
+                },
+                {
+                    "latitude": 32.31676564333444,
+                    "longitude": 36.84735285466536
+                },
+                {
+                    "latitude": 33.379527457536604,
+                    "longitude": 38.79925127092642
+                },
+                {
+                    "latitude": 32.503642604784524,
+                    "longitude": 39.07665605888454
+                },
+                {
+                    "latitude": 32.47748652805586,
+                    "longitude": 38.98726403138514
+                },
+                {
+                    "latitude": 32.304175437128535,
+                    "longitude": 39.046383354047066
+                },
+                {
+                    "latitude": 32.35036141730895,
+                    "longitude": 39.25943600745205
+                },
+                {
+                    "latitude": 32.213351130765176,
+                    "longitude": 39.29497124439061
+                },
+                {
+                    "latitude": 32.015893196551396,
+                    "longitude": 39.028536691161946
+                },
+                {
+                    "latitude": 31.499090783489205,
+                    "longitude": 37.01362538630576
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{bfbd0e7b-7cdb-442c-979d-27820e623e93}",
+            "latitude": 32.036763888779255,
+            "lineWidth": 10,
+            "longitude": 36.85792247577942,
+            "name": "Amman Label",
+            "shared": false,
+            "text": "Amman FIR",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff0000ff",
+            "colorBg": "#33ff0000",
+            "id": "{8759caa4-bba0-4773-a63f-b7ecf6655e3e}",
+            "lineWidth": 2,
+            "name": "Damascus East",
+            "points": [
+                {
+                    "latitude": 33.38209574374699,
+                    "longitude": 38.794822660171576
+                },
+                {
+                    "latitude": 34.39293299061359,
+                    "longitude": 40.911318503378624
+                },
+                {
+                    "latitude": 34.76889602936864,
+                    "longitude": 41.23024253453866
+                },
+                {
+                    "latitude": 35.45667994569878,
+                    "longitude": 41.25198735484503
+                },
+                {
+                    "latitude": 35.63360821327422,
+                    "longitude": 41.38245627668323
+                },
+                {
+                    "latitude": 35.85128148104255,
+                    "longitude": 41.37520800324779
+                },
+                {
+                    "latitude": 36.05664018193752,
+                    "longitude": 41.273732175151395
+                },
+                {
+                    "latitude": 36.38410186751622,
+                    "longitude": 41.288228722022296
+                },
+                {
+                    "latitude": 36.54149482094182,
+                    "longitude": 41.41144937042506
+                },
+                {
+                    "latitude": 36.59970738826975,
+                    "longitude": 41.82460095624597
+                },
+                {
+                    "latitude": 37.06382563654768,
+                    "longitude": 42.38996628421157
+                },
+                {
+                    "latitude": 37.340942700869626,
+                    "longitude": 42.223255995196126
+                },
+                {
+                    "latitude": 37.167863753341834,
+                    "longitude": 42.04929743274516
+                },
+                {
+                    "latitude": 37.06382563654768,
+                    "longitude": 41.172256347028025
+                },
+                {
+                    "latitude": 37.144756527238876,
+                    "longitude": 40.809842675255254
+                },
+                {
+                    "latitude": 36.69718887758784,
+                    "longitude": 39.48924291298508
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "line",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{90be6b8d-e879-4459-b366-2a706aebd4bb}",
+    "name": "Syria FIRs",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.2.401",
+    "visible": true
+}
