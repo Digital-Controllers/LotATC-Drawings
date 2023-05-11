@@ -6,7 +6,7 @@
             "brushStyle": 1,
             "color": "#ff00ff00",
             "colorBg": "#0000ff00",
-            "id": "{ab4058c1-968e-4982-8249-4d6b9a8432d2}",
+            "id": "{8eca9102-293b-436f-9542-15be01bdce98}",
             "lineWidth": 3,
             "name": "Incirlik MATZ",
             "points": [
@@ -133,16 +133,16 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ffff0000",
             "colorBg": "#33ff0000",
             "font": {
-                "color": "#ffffffff",
+                "color": "#ff00ff00",
                 "font": "Lato,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular"
             },
-            "id": "{2ee9d3b0-9eec-461a-874c-d891625c4c86}",
+            "id": "{456fa639-7f2d-42ad-80fe-68ab2e251a61}",
             "latitude": 36.94991648973348,
             "lineWidth": 10,
             "longitude": 35.41798548069153,
@@ -154,7 +154,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff00ff00",
@@ -163,7 +163,7 @@
                 "color": "#ff07b643",
                 "font": "Lato"
             },
-            "id": "{38d1bea8-c559-4e0d-938e-c871729584c2}",
+            "id": "{414a13ed-52dd-4280-a8ac-8cacc0491318}",
             "latitude": 37.00153362104576,
             "lineWidth": 2,
             "longitude": 35.426135110736254,
@@ -176,16 +176,16 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ffff0000",
             "colorBg": "#33ff0000",
             "font": {
-                "color": "#ffffffff",
+                "color": "#ff00ff00",
                 "font": "Lato"
             },
-            "id": "{f1c4c069-2f78-44c1-b210-43eaae62a2f9}",
+            "id": "{0197d306-eaf4-4cbc-901e-08f9508e1d0f}",
             "latitude": 36.428602802706905,
             "lineWidth": 10,
             "longitude": 34.87037013512213,
@@ -198,7 +198,7 @@
         }
     ],
     "enable": "true",
-    "id": "{2e89ba47-ad6b-4365-aa3d-0a6b898f9765}",
+    "id": "{cf0f6dd1-73fb-4c81-81ef-c1d0f066e39f}",
     "name": "Incirlik AB AS",
     "shared": false,
     "timestamp": "",
