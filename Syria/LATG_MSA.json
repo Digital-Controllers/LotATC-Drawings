@@ -1,0 +1,402 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#14ffffff",
+            "id": "{4b38d0fd-4d58-4341-90b1-3dc0ffbcea1f}",
+            "lineWidth": 2,
+            "name": "MSA SW",
+            "points": [
+                {
+                    "latitude": 37.01555555555556,
+                    "longitude": 35.448055555555555
+                },
+                {
+                    "latitude": 37.00209325266929,
+                    "longitude": 34.925043603411666
+                },
+                {
+                    "latitude": 36.958077248601306,
+                    "longitude": 34.928530057391214
+                },
+                {
+                    "latitude": 36.908162146451446,
+                    "longitude": 34.945182216920955
+                },
+                {
+                    "latitude": 36.86570861381873,
+                    "longitude": 34.96183437645064
+                },
+                {
+                    "latitude": 36.81240020116505,
+                    "longitude": 34.99201641561268
+                },
+                {
+                    "latitude": 36.76572486722667,
+                    "longitude": 35.032606054509785
+                },
+                {
+                    "latitude": 36.717352589155766,
+                    "longitude": 35.08360329314186
+                },
+                {
+                    "latitude": 36.666445413542355,
+                    "longitude": 35.163741810969725
+                },
+                {
+                    "latitude": 36.63137498310467,
+                    "longitude": 35.2428395682162
+                },
+                {
+                    "latitude": 36.60965671413882,
+                    "longitude": 35.32922264583928
+                },
+                {
+                    "latitude": 36.599630834198784,
+                    "longitude": 35.419768763325465
+                },
+                {
+                    "latitude": 36.599630834198784,
+                    "longitude": 35.49574424129071
+                },
+                {
+                    "latitude": 36.61216298048823,
+                    "longitude": 35.570678959212984
+                },
+                {
+                    "latitude": 36.62474897217204,
+                    "longitude": 35.62460745710797
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#14ffffff",
+            "id": "{7b79ca40-c0b0-42e6-8d57-49e4060f4e0f}",
+            "lineWidth": 2,
+            "name": "MSA NW",
+            "points": [
+                {
+                    "latitude": 37.01578323044994,
+                    "longitude": 35.44796599588861
+                },
+                {
+                    "latitude": 37.002094737738155,
+                    "longitude": 34.925036092765026
+                },
+                {
+                    "latitude": 37.09591582539853,
+                    "longitude": 34.93530180222905
+                },
+                {
+                    "latitude": 37.17005050306378,
+                    "longitude": 34.962353315194036
+                },
+                {
+                    "latitude": 37.250841828019055,
+                    "longitude": 35.013074902081854
+                },
+                {
+                    "latitude": 37.310033803765705,
+                    "longitude": 35.07901296494191
+                },
+                {
+                    "latitude": 37.359772833357034,
+                    "longitude": 35.14664174741716
+                },
+                {
+                    "latitude": 37.4027638069255,
+                    "longitude": 35.249775640682515
+                },
+                {
+                    "latitude": 37.42693539717722,
+                    "longitude": 35.356290973115534
+                },
+                {
+                    "latitude": 37.43096323712059,
+                    "longitude": 35.46449702503827
+                },
+                {
+                    "latitude": 37.424250050170095,
+                    "longitude": 35.5557958813736
+                },
+                {
+                    "latitude": 37.406792947003694,
+                    "longitude": 35.62680610295382
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#14ffffff",
+            "id": "{261c1e3e-56cd-4d52-8768-22d655c36ac9}",
+            "lineWidth": 2,
+            "name": "MSA E",
+            "points": [
+                {
+                    "latitude": 37.017784387211975,
+                    "longitude": 35.4475400089745
+                },
+                {
+                    "latitude": 37.406785225031776,
+                    "longitude": 35.626850159539345
+                },
+                {
+                    "latitude": 37.38578463304207,
+                    "longitude": 35.68776052958734
+                },
+                {
+                    "latitude": 37.35413404438225,
+                    "longitude": 35.74955862525579
+                },
+                {
+                    "latitude": 37.314825085015755,
+                    "longitude": 35.80998342996719
+                },
+                {
+                    "latitude": 37.26675287236631,
+                    "longitude": 35.86628836160344
+                },
+                {
+                    "latitude": 37.212088083475756,
+                    "longitude": 35.908860383108106
+                },
+                {
+                    "latitude": 37.15628916846249,
+                    "longitude": 35.94044607644639
+                },
+                {
+                    "latitude": 37.09606768104839,
+                    "longitude": 35.9610454416692
+                },
+                {
+                    "latitude": 37.03470204129047,
+                    "longitude": 35.970658478776585
+                },
+                {
+                    "latitude": 36.96560637520866,
+                    "longitude": 35.965165314744326
+                },
+                {
+                    "latitude": 36.906331557918975,
+                    "longitude": 35.95280569556985
+                },
+                {
+                    "latitude": 36.83272281328745,
+                    "longitude": 35.91847342021549
+                },
+                {
+                    "latitude": 36.77554477047995,
+                    "longitude": 35.87178152568663
+                },
+                {
+                    "latitude": 36.7249286156357,
+                    "longitude": 35.816849885058446
+                },
+                {
+                    "latitude": 36.66326389436237,
+                    "longitude": 35.730332551041045
+                },
+                {
+                    "latitude": 36.624698334421495,
+                    "longitude": 35.62458914285983
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{12451f3f-dc36-4cd4-b088-e725ad72a5e8}",
+            "latitude": 36.974720656525854,
+            "lineWidth": 10,
+            "longitude": 35.61812135147301,
+            "name": "MSA E Label",
+            "shared": false,
+            "text": "3700",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{37d3c98d-1501-4d38-affe-de0444207a95}",
+            "latitude": 37.195014563247895,
+            "lineWidth": 10,
+            "longitude": 35.23898728705723,
+            "name": "MSA NW Label",
+            "shared": false,
+            "text": "8000",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{e7d94674-481b-4779-b2e0-ae009514b52a}",
+            "latitude": 36.82873021840153,
+            "lineWidth": 10,
+            "longitude": 35.207399404238714,
+            "name": "MSA SW Label",
+            "shared": false,
+            "text": "3100",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{1335b78c-10ca-49ee-bbfa-025517cfee7a}",
+            "latitude": 37.365333190283565,
+            "lineWidth": 10,
+            "longitude": 34.730899676698925,
+            "name": "Terrain Height 1",
+            "shared": false,
+            "text": "12.5",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{c46b2052-95ea-4302-86bb-4fcc3fcd907d}",
+            "latitude": 37.77733893257372,
+            "lineWidth": 10,
+            "longitude": 35.400593625147536,
+            "name": "Terrain Height 2",
+            "shared": false,
+            "text": "13.1",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{bf3586b6-3213-47ca-a12b-30b096eb0e14}",
+            "latitude": 37.68798320553908,
+            "lineWidth": 10,
+            "longitude": 36.12323744955006,
+            "name": "Terrain Height 3",
+            "shared": false,
+            "text": "9.2",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{c3888259-c277-41ce-b0f7-596032218f23}",
+            "latitude": 36.81181338498543,
+            "lineWidth": 10,
+            "longitude": 36.26695857419992,
+            "name": "Terrain Height 4",
+            "shared": false,
+            "text": "8.3",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{b1fabac1-c156-455a-be46-83682c8d06ee}",
+            "latitude": 37.34868559549066,
+            "lineWidth": 10,
+            "longitude": 36.638942660888176,
+            "name": "Terrain Height 5",
+            "shared": false,
+            "text": "7.5",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{b2cd11c7-290a-45de-93bd-7c1a95ba27a8}",
+    "name": "DAN MSA",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.2.401",
+    "visible": true
+}

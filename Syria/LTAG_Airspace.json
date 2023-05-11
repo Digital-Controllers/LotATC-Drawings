@@ -1,0 +1,208 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00ff00",
+            "colorBg": "#0000ff00",
+            "id": "{ab4058c1-968e-4982-8249-4d6b9a8432d2}",
+            "lineWidth": 3,
+            "name": "Incirlik MATZ",
+            "points": [
+                {
+                    "latitude": 36.98286631953939,
+                    "longitude": 35.32434646667036
+                },
+                {
+                    "latitude": 37.003134910910084,
+                    "longitude": 35.321418387002495
+                },
+                {
+                    "latitude": 37.02273016898065,
+                    "longitude": 35.324764764232214
+                },
+                {
+                    "latitude": 37.04042835888488,
+                    "longitude": 35.332991273764094
+                },
+                {
+                    "latitude": 37.05534061173644,
+                    "longitude": 35.34595848368835
+                },
+                {
+                    "latitude": 37.06635599120681,
+                    "longitude": 35.360041152522626
+                },
+                {
+                    "latitude": 37.07503364853562,
+                    "longitude": 35.37621530696717
+                },
+                {
+                    "latitude": 37.07992829921888,
+                    "longitude": 35.39001911108224
+                },
+                {
+                    "latitude": 37.083821545717186,
+                    "longitude": 35.40856361558971
+                },
+                {
+                    "latitude": 37.08504509618619,
+                    "longitude": 35.42752641722592
+                },
+                {
+                    "latitude": 37.08371031288185,
+                    "longitude": 35.44467659807097
+                },
+                {
+                    "latitude": 37.08081820176682,
+                    "longitude": 35.45875926693853
+                },
+                {
+                    "latitude": 37.074588664612634,
+                    "longitude": 35.47646717725519
+                },
+                {
+                    "latitude": 37.129079757227174,
+                    "longitude": 35.566401052800444
+                },
+                {
+                    "latitude": 37.075589874627575,
+                    "longitude": 35.61687556906827
+                },
+                {
+                    "latitude": 37.02150561326281,
+                    "longitude": 35.52680226141291
+                },
+                {
+                    "latitude": 37.006475368864976,
+                    "longitude": 35.529869772724
+                },
+                {
+                    "latitude": 36.988212406497574,
+                    "longitude": 35.52861488143773
+                },
+                {
+                    "latitude": 36.96949945843382,
+                    "longitude": 35.52206155982114
+                },
+                {
+                    "latitude": 36.95590740960999,
+                    "longitude": 35.512719591412605
+                },
+                {
+                    "latitude": 36.94342732700843,
+                    "longitude": 35.50044954330289
+                },
+                {
+                    "latitude": 36.93261703192273,
+                    "longitude": 35.483996523939254
+                },
+                {
+                    "latitude": 36.92526069670274,
+                    "longitude": 35.46670691071796
+                },
+                {
+                    "latitude": 36.920801966245136,
+                    "longitude": 35.449835594558806
+                },
+                {
+                    "latitude": 36.91846102837158,
+                    "longitude": 35.426410957282684
+                },
+                {
+                    "latitude": 36.92147079243823,
+                    "longitude": 35.39740902539003
+                },
+                {
+                    "latitude": 36.92905041259504,
+                    "longitude": 35.374123820456816
+                },
+                {
+                    "latitude": 36.874545198051514,
+                    "longitude": 35.28444713607365
+                },
+                {
+                    "latitude": 36.92773769623217,
+                    "longitude": 35.23370907394366
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular"
+            },
+            "id": "{2ee9d3b0-9eec-461a-874c-d891625c4c86}",
+            "latitude": 36.94991648973348,
+            "lineWidth": 10,
+            "longitude": 35.41798548069153,
+            "name": "Incirlik MATZ Label",
+            "shared": false,
+            "text": "GND-3000'",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff00ff00",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ff07b643",
+                "font": "Lato"
+            },
+            "id": "{38d1bea8-c559-4e0d-938e-c871729584c2}",
+            "latitude": 37.00153362104576,
+            "lineWidth": 2,
+            "longitude": 35.426135110736254,
+            "name": "Incirlik C",
+            "radius": 92600,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{f1c4c069-2f78-44c1-b210-43eaae62a2f9}",
+            "latitude": 36.428602802706905,
+            "lineWidth": 10,
+            "longitude": 34.87037013512213,
+            "name": "Incirlik C Label",
+            "shared": false,
+            "text": "2000-FL280",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{2e89ba47-ad6b-4365-aa3d-0a6b898f9765}",
+    "name": "Incirlik AB AS",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.2.401",
+    "visible": true
+}
