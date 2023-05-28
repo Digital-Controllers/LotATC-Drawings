@@ -1,0 +1,775 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{7b5193bc-d4fa-41c2-94f4-6fa3cf39cf9f}",
+            "latitude": 34.590925776925495,
+            "lineWidth": 1,
+            "longitude": 32.98790588311181,
+            "name": "circle #8020",
+            "radius": 11112,
+            "shared": false,
+            "text": "1500",
+            "timestamp": "",
+            "type": "circle",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{395aede1-8b48-4396-ab3e-73a764a19b11}",
+            "lineWidth": 1,
+            "name": "polygon #2874",
+            "points": [
+                {
+                    "latitude": 34.57553856616047,
+                    "longitude": 32.867759450733956
+                },
+                {
+                    "latitude": 34.57977410342129,
+                    "longitude": 32.72412969881918
+                },
+                {
+                    "latitude": 34.60007753053365,
+                    "longitude": 32.72541193930786
+                },
+                {
+                    "latitude": 34.613969480559476,
+                    "longitude": 32.72633763716371
+                },
+                {
+                    "latitude": 34.64095597203605,
+                    "longitude": 32.732134251415715
+                },
+                {
+                    "latitude": 34.65216092179782,
+                    "longitude": 32.73638711960416
+                },
+                {
+                    "latitude": 34.67425619762688,
+                    "longitude": 32.74521887296481
+                },
+                {
+                    "latitude": 34.68968912678144,
+                    "longitude": 32.75478660575928
+                },
+                {
+                    "latitude": 34.70965688196294,
+                    "longitude": 32.76840222598156
+                },
+                {
+                    "latitude": 34.72387340649909,
+                    "longitude": 32.781257223136066
+                },
+                {
+                    "latitude": 34.6527663499674,
+                    "longitude": 32.89278275236106
+                },
+                {
+                    "latitude": 34.64398720365366,
+                    "longitude": 32.88468697843422
+                },
+                {
+                    "latitude": 34.63490434992321,
+                    "longitude": 32.878063163426646
+                },
+                {
+                    "latitude": 34.622792330976544,
+                    "longitude": 32.872543317595586
+                },
+                {
+                    "latitude": 34.61158713933265,
+                    "longitude": 32.86812744088951
+                },
+                {
+                    "latitude": 34.595533824289426,
+                    "longitude": 32.86591950258804
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{737afcff-07a9-41eb-9631-a25ebce5d1ba}",
+            "latitude": 34.61340430036073,
+            "lineWidth": 10,
+            "longitude": 32.746690832090565,
+            "name": "text #3525",
+            "shared": false,
+            "text": "2100",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{f3c90625-1b78-49fb-a718-42007b5f0ed8}",
+            "lineWidth": 1,
+            "name": "polygon #1575",
+            "points": [
+                {
+                    "latitude": 34.65306906237287,
+                    "longitude": 32.89204677364978
+                },
+                {
+                    "latitude": 34.72387340630897,
+                    "longitude": 32.7812818670798
+                },
+                {
+                    "latitude": 34.736575466555585,
+                    "longitude": 32.794161507352214
+                },
+                {
+                    "latitude": 34.749880292920444,
+                    "longitude": 32.81035305515422
+                },
+                {
+                    "latitude": 34.762578355416416,
+                    "longitude": 32.82838455161823
+                },
+                {
+                    "latitude": 34.774065395878694,
+                    "longitude": 32.85009594525127
+                },
+                {
+                    "latitude": 34.78313298265577,
+                    "longitude": 32.869967390273985
+                },
+                {
+                    "latitude": 34.79106630353869,
+                    "longitude": 32.8913107941967
+                },
+                {
+                    "latitude": 34.79784781476306,
+                    "longitude": 32.91543892320047
+                },
+                {
+                    "latitude": 34.80188516961114,
+                    "longitude": 32.93767403931051
+                },
+                {
+                    "latitude": 34.80474787872618,
+                    "longitude": 32.95355101729413
+                },
+                {
+                    "latitude": 34.80665420755913,
+                    "longitude": 32.993808931373565
+                },
+                {
+                    "latitude": 34.80459523352281,
+                    "longitude": 33.01458735142191
+                },
+                {
+                    "latitude": 34.802215243178395,
+                    "longitude": 33.037452318487084
+                },
+                {
+                    "latitude": 34.79568893518065,
+                    "longitude": 33.06359831165787
+                },
+                {
+                    "latitude": 34.789133907426276,
+                    "longitude": 33.091227710816355
+                },
+                {
+                    "latitude": 34.7796681613812,
+                    "longitude": 33.11303795764832
+                },
+                {
+                    "latitude": 34.77030731426098,
+                    "longitude": 33.13499940969359
+                },
+                {
+                    "latitude": 34.75821196297204,
+                    "longitude": 33.15160855145078
+                },
+                {
+                    "latitude": 34.7454539498858,
+                    "longitude": 33.16849446156397
+                },
+                {
+                    "latitude": 34.66361652296009,
+                    "longitude": 33.071257769104164
+                },
+                {
+                    "latitude": 34.67445899934868,
+                    "longitude": 33.05500552565297
+                },
+                {
+                    "latitude": 34.68272953398491,
+                    "longitude": 33.036298745413035
+                },
+                {
+                    "latitude": 34.688478804455706,
+                    "longitude": 33.015691320956535
+                },
+                {
+                    "latitude": 34.69059685610087,
+                    "longitude": 32.99545188619106
+                },
+                {
+                    "latitude": 34.69089943047713,
+                    "longitude": 32.977052400036
+                },
+                {
+                    "latitude": 34.68757105144318,
+                    "longitude": 32.95754894470437
+                },
+                {
+                    "latitude": 34.68182171793295,
+                    "longitude": 32.9358375510713
+                },
+                {
+                    "latitude": 34.673045649697414,
+                    "longitude": 32.91817404435008
+                },
+                {
+                    "latitude": 34.663360633113264,
+                    "longitude": 32.9038224451584
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{1342cac3-38ee-4013-8903-aa02caa2a89d}",
+            "latitude": 34.750787362274856,
+            "lineWidth": 10,
+            "longitude": 32.942461366130715,
+            "name": "text #5482",
+            "shared": false,
+            "text": "3600",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{b1fbc923-8a21-472a-8a61-28c8840816ba}",
+            "lineWidth": 1,
+            "name": "polygon #3776",
+            "points": [
+                {
+                    "latitude": 34.59214984844745,
+                    "longitude": 32.60179371712235
+                },
+                {
+                    "latitude": 34.61274683027296,
+                    "longitude": 32.342728952186775
+                },
+                {
+                    "latitude": 35.03918252164402,
+                    "longitude": 32.18053881441651
+                },
+                {
+                    "latitude": 35.0898823988728,
+                    "longitude": 32.22350028194725
+                },
+                {
+                    "latitude": 35.147674647746186,
+                    "longitude": 32.285322555420095
+                },
+                {
+                    "latitude": 34.956080906560175,
+                    "longitude": 32.51200422475162
+                },
+                {
+                    "latitude": 34.88840733989851,
+                    "longitude": 32.45286782349956
+                },
+                {
+                    "latitude": 34.727017806085264,
+                    "longitude": 32.639503124494354
+                },
+                {
+                    "latitude": 34.658356707602806,
+                    "longitude": 32.61044338347014
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{c9b27735-439d-4c64-9dab-1cc45e71f305}",
+            "latitude": 34.892802449774024,
+            "lineWidth": 10,
+            "longitude": 32.3091065551871,
+            "name": "text #3747",
+            "shared": false,
+            "text": "3400",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{7140deed-0431-41d8-8bb1-f01edd5f9e15}",
+            "lineWidth": 1,
+            "name": "polygon #2371",
+            "points": [
+                {
+                    "latitude": 34.57979835147,
+                    "longitude": 32.72417325265749
+                },
+                {
+                    "latitude": 34.59203995155436,
+                    "longitude": 32.601699421616956
+                },
+                {
+                    "latitude": 34.65841633570842,
+                    "longitude": 32.610464480705986
+                },
+                {
+                    "latitude": 34.72697805852385,
+                    "longitude": 32.63945796974579
+                },
+                {
+                    "latitude": 34.664784630012534,
+                    "longitude": 32.741482062288526
+                },
+                {
+                    "latitude": 34.6410293924044,
+                    "longitude": 32.732204727213315
+                },
+                {
+                    "latitude": 34.613898480441364,
+                    "longitude": 32.72628679859949
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{817046b0-c7eb-4b95-b5d0-be1a47039c2b}",
+            "latitude": 34.63337798216554,
+            "lineWidth": 10,
+            "longitude": 32.645549343414075,
+            "name": "text #1285",
+            "shared": false,
+            "text": "3100",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{de2cfb81-de6a-441b-ada4-c42a86a37cf7}",
+            "lineWidth": 1,
+            "name": "polygon #8791",
+            "points": [
+                {
+                    "latitude": 34.66476684473446,
+                    "longitude": 32.74142667988809
+                },
+                {
+                    "latitude": 34.72695861932418,
+                    "longitude": 32.63948841169048
+                },
+                {
+                    "latitude": 34.888350543814404,
+                    "longitude": 32.45283243315427
+                },
+                {
+                    "latitude": 34.956179145182546,
+                    "longitude": 32.51204437552565
+                },
+                {
+                    "latitude": 35.08923716336972,
+                    "longitude": 32.35455590985603
+                },
+                {
+                    "latitude": 35.12436139803527,
+                    "longitude": 32.40209100286779
+                },
+                {
+                    "latitude": 35.15992649582098,
+                    "longitude": 32.45464462791762
+                },
+                {
+                    "latitude": 35.19103320632901,
+                    "longitude": 32.508104349872156
+                },
+                {
+                    "latitude": 35.22434861387707,
+                    "longitude": 32.58059210854185
+                },
+                {
+                    "latitude": 35.24877122353854,
+                    "longitude": 32.642206702956315
+                },
+                {
+                    "latitude": 35.27910422065265,
+                    "longitude": 32.74822004996068
+                },
+                {
+                    "latitude": 35.29611531995925,
+                    "longitude": 32.83973584528198
+                },
+                {
+                    "latitude": 35.41361597364311,
+                    "longitude": 32.82161390559867
+                },
+                {
+                    "latitude": 35.42173862508814,
+                    "longitude": 32.92581505866647
+                },
+                {
+                    "latitude": 35.42395375155718,
+                    "longitude": 33.01461256301937
+                },
+                {
+                    "latitude": 35.41991887815865,
+                    "longitude": 33.08981861259386
+                },
+                {
+                    "latitude": 35.40982189734505,
+                    "longitude": 33.17304986866293
+                },
+                {
+                    "latitude": 34.80226031920958,
+                    "longitude": 33.03736491262919
+                },
+                {
+                    "latitude": 34.80667803455336,
+                    "longitude": 32.99372543462508
+                },
+                {
+                    "latitude": 34.804714634739746,
+                    "longitude": 32.9536727630576
+                },
+                {
+                    "latitude": 34.7978423670947,
+                    "longitude": 32.91541349462452
+                },
+                {
+                    "latitude": 34.790969526520335,
+                    "longitude": 32.890903650837004
+                },
+                {
+                    "latitude": 34.780168191160776,
+                    "longitude": 32.86280700061286
+                },
+                {
+                    "latitude": 34.76387372905819,
+                    "longitude": 32.8299950898423
+                },
+                {
+                    "latitude": 34.7505711569322,
+                    "longitude": 32.81049163456231
+                },
+                {
+                    "latitude": 34.73545199648285,
+                    "longitude": 32.79209214840719
+                },
+                {
+                    "latitude": 34.70955164675621,
+                    "longitude": 32.76817281644264
+                },
+                {
+                    "latitude": 34.67461977348222,
+                    "longitude": 32.74554434967851
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{6ddeb3f4-7907-46b2-a08f-91c8c51f63a6}",
+            "latitude": 35.02905211205712,
+            "lineWidth": 10,
+            "longitude": 32.71141271874558,
+            "name": "text #1907",
+            "shared": false,
+            "text": "8800",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{86b10f46-e722-48cf-ad9d-9fc4827d098d}",
+            "lineWidth": 1,
+            "name": "polygon #5603",
+            "points": [
+                {
+                    "latitude": 34.802197672292095,
+                    "longitude": 33.03733615769485
+                },
+                {
+                    "latitude": 34.789077759953045,
+                    "longitude": 33.091398731923476
+                },
+                {
+                    "latitude": 34.77027019894741,
+                    "longitude": 33.13511368072449
+                },
+                {
+                    "latitude": 34.74554941044593,
+                    "longitude": 33.16857772264606
+                },
+                {
+                    "latitude": 35.30749058512661,
+                    "longitude": 33.83929559046257
+                },
+                {
+                    "latitude": 35.34195115904213,
+                    "longitude": 33.79431193401979
+                },
+                {
+                    "latitude": 35.379472180707246,
+                    "longitude": 33.73868979301824
+                },
+                {
+                    "latitude": 35.416416135421414,
+                    "longitude": 33.67894749297773
+                },
+                {
+                    "latitude": 35.45781801068486,
+                    "longitude": 33.596544320488164
+                },
+                {
+                    "latitude": 35.479629349517275,
+                    "longitude": 33.545729030799095
+                },
+                {
+                    "latitude": 35.3766727065539,
+                    "longitude": 33.47225286866097
+                },
+                {
+                    "latitude": 35.39402788040296,
+                    "longitude": 33.42555773776991
+                },
+                {
+                    "latitude": 35.41529687022753,
+                    "longitude": 33.36444205149559
+                },
+                {
+                    "latitude": 35.43432226154645,
+                    "longitude": 33.29645943419655
+                },
+                {
+                    "latitude": 35.44886805780476,
+                    "longitude": 33.233283668595504
+                },
+                {
+                    "latitude": 35.45669932091368,
+                    "longitude": 33.183841765092154
+                },
+                {
+                    "latitude": 35.409140634521876,
+                    "longitude": 33.17285467546222
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{dcba4d0e-3e03-45de-92b1-4126bd46545b}",
+            "latitude": 35.0788408800233,
+            "lineWidth": 10,
+            "longitude": 33.21019676117629,
+            "name": "text #1470",
+            "shared": false,
+            "text": "6700",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffffffff",
+            "colorBg": "#1effffff",
+            "id": "{c8ac2779-e53e-4a64-a82a-bf60d48b3fb1}",
+            "lineWidth": 1,
+            "name": "polygon #4679",
+            "points": [
+                {
+                    "latitude": 34.66341235929359,
+                    "longitude": 33.070970925222525
+                },
+                {
+                    "latitude": 35.30736534150642,
+                    "longitude": 33.83910243494202
+                },
+                {
+                    "latitude": 35.27059975851995,
+                    "longitude": 33.881915715971274
+                },
+                {
+                    "latitude": 35.23606811698772,
+                    "longitude": 33.9203581552413
+                },
+                {
+                    "latitude": 35.20623349991652,
+                    "longitude": 33.948549277360655
+                },
+                {
+                    "latitude": 35.16800823951441,
+                    "longitude": 33.98378818003232
+                },
+                {
+                    "latitude": 35.12714494471431,
+                    "longitude": 34.016464253371396
+                },
+                {
+                    "latitude": 35.07787217999582,
+                    "longitude": 34.05170315676176
+                },
+                {
+                    "latitude": 35.02699566573214,
+                    "longitude": 34.085660644812066
+                },
+                {
+                    "latitude": 34.98133719922387,
+                    "longitude": 34.109366815711724
+                },
+                {
+                    "latitude": 34.93565325929561,
+                    "longitude": 34.13115086463441
+                },
+                {
+                    "latitude": 34.889418317959574,
+                    "longitude": 33.956878472444544
+                },
+                {
+                    "latitude": 34.917267481302574,
+                    "longitude": 33.94214220407417
+                },
+                {
+                    "latitude": 34.7595062170221,
+                    "longitude": 33.47058161568319
+                },
+                {
+                    "latitude": 34.728444275489295,
+                    "longitude": 33.48467717606894
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffffffff",
+                "font": "Lato"
+            },
+            "id": "{d481f424-3cd0-40c8-94e8-16e9270e363f}",
+            "latitude": 34.9188334548033,
+            "lineWidth": 10,
+            "longitude": 33.51478622117742,
+            "name": "text #2706",
+            "shared": false,
+            "text": "3500",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{93157cbd-a66b-49d1-a6ce-610c464689a8}",
+    "name": "LCRA_MVA",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.2.401",
+    "visible": true
+}
