@@ -1,0 +1,695 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "ABBAS",
+            "text": "ABBAS",
+            "latitude": 33.43333333,
+            "longitude": 37.725
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "ADRA",
+            "text": "ADRA",
+            "latitude": 33.61333333,
+            "longitude": 36.5
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "BASEM",
+            "text": "BASEM",
+            "latitude": 33.56027778,
+            "longitude": 37.65194444
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "BRAVO",
+            "text": "BRAVO",
+            "latitude": 34.69304167,
+            "longitude": 36.65301111
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "FIRAS",
+            "text": "FIRAS",
+            "latitude": 33.87194444,
+            "longitude": 37.92
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "GOLF",
+            "text": "GOLF",
+            "latitude": 36.405,
+            "longitude": 37.29
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "KILO",
+            "text": "KILO",
+            "latitude": 35.985,
+            "longitude": 37.21333333
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "LIMA",
+            "text": "LIMA",
+            "latitude": 34.93555,
+            "longitude": 36.33984167
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "LIMA",
+            "text": "LIMA",
+            "latitude": 36.03666667,
+            "longitude": 37.01833333
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "LOTAX",
+            "text": "LOTAX",
+            "latitude": 33.97638889,
+            "longitude": 36.55805556
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "LUBAM",
+            "text": "LUBAM",
+            "latitude": 35.66666667,
+            "longitude": 36.53333333
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "MALLA",
+            "text": "MALLA",
+            "latitude": 33.85333333,
+            "longitude": 36.53166667
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "MURAK",
+            "text": "MURAK",
+            "latitude": 34.93333333,
+            "longitude": 36.7
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "NAMBO",
+            "text": "NAMBO",
+            "latitude": 33.30713333,
+            "longitude": 38.66071944
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "NOVMR",
+            "text": "NOVMR",
+            "latitude": 36.38166667,
+            "longitude": 37.02166667
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "RAFIF",
+            "text": "RAFIF",
+            "latitude": 33.21305556,
+            "longitude": 38.32194444
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "RDIMA",
+            "text": "RDIMA",
+            "latitude": 33.03333333,
+            "longitude": 36.53333333
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "SALIM",
+            "text": "SALIM",
+            "latitude": 35.49583333,
+            "longitude": 36.31111111
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "SOFIA",
+            "text": "SOFIA",
+            "latitude": 33.38513056,
+            "longitude": 36.82778611
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "SULAF",
+            "text": "SULAF",
+            "latitude": 33.455,
+            "longitude": 38.17416667
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "SWIDA",
+            "text": "SWIDA",
+            "latitude": 32.71666667,
+            "longitude": 36.56666667
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "TABQA",
+            "text": "TABQA",
+            "latitude": 35.78333333,
+            "longitude": 38.56666667
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "TANGO",
+            "text": "TANGO",
+            "latitude": 35.95,
+            "longitude": 37.335
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "TECHN",
+            "text": "TECHN",
+            "latitude": 33.43611111,
+            "longitude": 36.675
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "TUDMU",
+            "text": "TUDMU",
+            "latitude": 34.51666667,
+            "longitude": 38.125
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "ALE",
+            "text": "ALE",
+            "latitude": 36.17968333,
+            "longitude": 37.20937778
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "DAM",
+            "text": "DAM",
+            "latitude": 33.36488333,
+            "longitude": 36.46862222
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "KML",
+            "text": "KML",
+            "latitude": 37.01666667,
+            "longitude": 41.18513889
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "KTN",
+            "text": "KTN",
+            "latitude": 34.21328333,
+            "longitude": 37.26420833
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "TAN",
+            "text": "TAN",
+            "latitude": 33.48238333,
+            "longitude": 38.65406389
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "DRZ",
+            "text": "DRZ",
+            "latitude": 35.28911111,
+            "longitude": 40.18741667
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "HAS",
+            "text": "HAS",
+            "latitude": 36.48288889,
+            "longitude": 40.75444444
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "BAN",
+            "text": "BAN",
+            "latitude": 35.22828611,
+            "longitude": 35.95791944
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "DRZ",
+            "text": "DRZ",
+            "latitude": 35.29194444,
+            "longitude": 40.15377778
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "LTK",
+            "text": "LTK",
+            "latitude": 35.39723333,
+            "longitude": 35.95185556
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "LTK",
+            "text": "LTK",
+            "latitude": 35.48028333,
+            "longitude": 35.94225278
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "ABD",
+            "text": "ABD",
+            "latitude": 33.33528611,
+            "longitude": 36.42818889
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#ffff0000",
+            "font": {
+                "color": "#ffff0000",
+                "font": "Lato"
+            },
+            "lineWidth": 5,
+            "shared": false,
+            "timestamp": "",
+            "type": "point",
+            "name": "DAL",
+            "text": "DAL",
+            "latitude": 33.48755,
+            "longitude": 36.60171944
+        }
+    ],
+    "enable": true,
+    "name": "OSTT_NAVAIDS",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "visible": true
+}
