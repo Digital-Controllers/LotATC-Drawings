@@ -1,0 +1,112 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#00ff0000",
+            "id": "{c1e7afa8-1514-4867-9954-bc5d325a3241}",
+            "lineWidth": 2,
+            "name": "NTTR_MOA",
+            "points": [
+                {
+                    "latitude": 36.43343678857077,
+                    "longitude": -115.30070398284946
+                },
+                {
+                    "latitude": 36.71646881561631,
+                    "longitude": -115.05148418135862
+                },
+                {
+                    "latitude": 36.71659314741636,
+                    "longitude": -114.5998683948928
+                },
+                {
+                    "latitude": 37.82374440073354,
+                    "longitude": -113.69997345541955
+                },
+                {
+                    "latitude": 37.89610825776875,
+                    "longitude": -113.699725764865
+                },
+                {
+                    "latitude": 38.017003679782356,
+                    "longitude": -114.20317468807225
+                },
+                {
+                    "latitude": 38.23330272202758,
+                    "longitude": -114.99312203329512
+                },
+                {
+                    "latitude": 38.23320524706044,
+                    "longitude": -116.314311267092
+                },
+                {
+                    "latitude": 37.99929411637528,
+                    "longitude": -116.66634955704714
+                },
+                {
+                    "latitude": 37.8837763683218,
+                    "longitude": -116.83343356703173
+                },
+                {
+                    "latitude": 37.8837795236097,
+                    "longitude": -117.09364438451544
+                },
+                {
+                    "latitude": 37.55175068790263,
+                    "longitude": -117.0949284244369
+                },
+                {
+                    "latitude": 37.440357886919784,
+                    "longitude": -117.07573110904625
+                },
+                {
+                    "latitude": 36.84887692686718,
+                    "longitude": -116.55731459058963
+                },
+                {
+                    "latitude": 36.850024241771635,
+                    "longitude": -116.44450364223343
+                },
+                {
+                    "latitude": 36.68296860278797,
+                    "longitude": -116.44197565232682
+                },
+                {
+                    "latitude": 36.682055750440696,
+                    "longitude": -115.93431624910144
+                },
+                {
+                    "latitude": 36.59995136847159,
+                    "longitude": -115.9342954564879
+                },
+                {
+                    "latitude": 36.58326221252959,
+                    "longitude": -115.88440352249964
+                },
+                {
+                    "latitude": 36.58330378087561,
+                    "longitude": -115.61786087765202
+                },
+                {
+                    "latitude": 36.43318310160831,
+                    "longitude": -115.38419675159058
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{488c76d2-4ed4-4ec9-9333-96624fbd6286}",
+    "name": "NTTR_MOA",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.3.400",
+    "visible": true
+}
