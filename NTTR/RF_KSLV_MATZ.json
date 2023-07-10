@@ -1,0 +1,56 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#00ff0000",
+            "font": {
+                "color": "#ff356fb8",
+                "font": "Lato"
+            },
+            "id": "{2f4bef4f-584f-47a7-bd95-eb76303e78ac}",
+            "latitude": 36.2331343674844,
+            "lineWidth": 2,
+            "longitude": -115.03492716005681,
+            "name": "MATZ",
+            "radius": 9259.999999995258,
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "circle",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ffff0000",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff969696",
+                "font": "Lato"
+            },
+            "id": "{24e49fcf-c562-4bcd-b730-c99f1f7f1b32}",
+            "latitude": 36.19126291551955,
+            "lineWidth": 10,
+            "longitude": -115.0544619340778,
+            "name": "MATZ_Label",
+            "shared": false,
+            "text": "SFC-50",
+            "timestamp": "",
+            "type": "text",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{c813d167-9eed-47d7-8724-aa0e1b8e4555}",
+    "name": "KSLV_MATZ",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.3.400",
+    "visible": true
+}

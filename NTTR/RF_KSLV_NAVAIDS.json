@@ -1,0 +1,286 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff8dedbf",
+                "font": "Lato"
+            },
+            "id": "{34391384-550e-481c-a250-0786cf461281}",
+            "latitude": 36.712361111111115,
+            "lineWidth": 5,
+            "longitude": -115.1048611111111,
+            "name": "MINTT",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffc1d5b9",
+                "font": "Lato"
+            },
+            "id": "{21e6cea4-3891-44c6-9e5e-6f92a35cba55}",
+            "latitude": 36.73002777777778,
+            "lineWidth": 5,
+            "longitude": -114.8795,
+            "name": "JUNNO",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff28fa95",
+                "font": "Lato"
+            },
+            "id": "{ede2b343-b1d3-406c-a4cc-67c515cf8ad6}",
+            "latitude": 36.552277777777775,
+            "lineWidth": 5,
+            "longitude": -114.70133333333334,
+            "name": "MOAPA",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffb6643b",
+                "font": "Lato"
+            },
+            "id": "{d457f59e-34f8-4e4c-90ac-4af135fed81c}",
+            "latitude": 36.74202777777778,
+            "lineWidth": 5,
+            "longitude": -114.60763888888889,
+            "name": "TORYE",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffd22860",
+                "font": "Lato"
+            },
+            "id": "{9a5ac599-7e3c-4134-acfb-a2efe160fde9}",
+            "latitude": 36.76925,
+            "lineWidth": 5,
+            "longitude": -114.27744444444444,
+            "name": "MMM",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#fff46174",
+                "font": "Lato"
+            },
+            "id": "{8febfac9-1977-481b-a7ff-559534e1b080}",
+            "latitude": 36.24466666666667,
+            "lineWidth": 5,
+            "longitude": -115.02508333333333,
+            "name": "LSV",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffdddc21",
+                "font": "Lato"
+            },
+            "id": "{03ba5c9f-8aee-4567-9ff5-ed8d346b343e}",
+            "latitude": 36.07969444444445,
+            "lineWidth": 5,
+            "longitude": -115.15980555555556,
+            "name": "LAS",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff6ddba2",
+                "font": "Lato"
+            },
+            "id": "{d75486c0-a06b-4fb2-98f8-74b407fe0cf6}",
+            "latitude": 35.99577777777778,
+            "lineWidth": 5,
+            "longitude": -114.86358333333332,
+            "name": "BLD",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff58de28",
+                "font": "Lato"
+            },
+            "id": "{2e3b71ba-7185-48d3-b359-13accdd98d12}",
+            "latitude": 36.37143621939948,
+            "lineWidth": 5,
+            "longitude": -114.8768522609308,
+            "name": "HEREM",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ffb3f78a",
+                "font": "Lato"
+            },
+            "id": "{bd299474-41bd-4ce6-96dd-51dd000e6521}",
+            "latitude": 36.38333770591687,
+            "lineWidth": 5,
+            "longitude": -114.8786586637588,
+            "name": "ATALF",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#fffa7457",
+                "font": "Lato"
+            },
+            "id": "{224aace5-9165-4445-8943-d28b5ae8bb1b}",
+            "latitude": 37.172205800275364,
+            "lineWidth": 5,
+            "longitude": -115.01299441246425,
+            "name": "DREAM",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff393e90",
+                "font": "Lato"
+            },
+            "id": "{c05e4592-5f31-4b82-9f61-09201f4e672b}",
+            "latitude": 36.73766666666667,
+            "lineWidth": 5,
+            "longitude": -114.917,
+            "name": "ARCOE",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff969696",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff3c6ee5",
+                "font": "Lato"
+            },
+            "id": "{31350700-00be-4d25-ac0d-39cb4ce066fc}",
+            "latitude": 36.3595,
+            "lineWidth": 5,
+            "longitude": -114.90566666666666,
+            "name": "APEX",
+            "shared": false,
+            "text": "",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{c54a2d41-eef9-400b-9998-e060a333f074}",
+    "name": "KSLV_NAVAIDS",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.3.400",
+    "visible": true
+}
